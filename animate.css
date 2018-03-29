@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+<title> NCI SOLAR
+</title>
+
+<link rel="icon" href="images/logoicon.png">
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="animate.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script> 
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>        
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>        
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.aniview.min.js"></script>
+
+
+   <!-- Start WOWSlider.com HEAD section -->
+
+ 
+ <script>        $(document).ready(function(){            $('.aniview').AniView();        });    </script>
+<!-- End WOWSlider.com HEAD section -->
+    <script>
+	jQuery(window).scroll(function() {    
+		var scroll = jQuery(window).scrollTop();
+
+		if (scroll >= 25) {
+			jQuery(".header").addClass("header01");
+		} else {
+			jQuery(".header").removeClass("header01");
+		}
+	}); 
+</script> 
+   
+</head>
+<body>
+<div class="container01">
+
+<div class="header"><div class="wrapper1200">
+ <div class="logo"><a href="">
+ <img src="images/logo.png"></a>
+ </div>
+ <div class="main_menu"> 
+   <ul>
+    <li><a href="">Home</a></li>
+    <li><a href="#about_us">About Us</a></li>
+    <li><a href="#mission">Our Mission</a></li>
+    <li><a href="#facilities">Facilities</a></li>
+    <li><a href="#value">Our Value</a></li>
+    <li><a href="#team">Our Team</a></li>
+    <li><a href="#Portfolio">Portfolio</a></li>
+   </ul>
+ </div>
+
+
+</div>
+
+</div>
+<div class="rotating"> 
+<!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1">
+<div class="ws_images"><ul>
+		<li><img src="data1/images/rotating2.jpg" alt="" title="" id="wows1_0"/></li>
+		<li><img src="data1/images/rotating3.jpg" alt="" title="" id="wows1_1"/></li>
+		<li><a href="http://wowslider.com"><img src="data1/images/rotating4.jpg" alt="wowslider.com" title="" id="wows1_2"/></a></li>
+		<li><img src="data1/images/rotatingone.jpg" alt="" title="" id="wows1_3"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title=""><span><img src="data1/tooltips/rotating2.jpg" alt=""/>1</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/rotating3.jpg" alt=""/>2</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/rotating4.jpg" alt=""/>3</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/rotatingone.jpg" alt=""/>4</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">http://wowslider.com/</a> by WOWSlider.com v8.7</div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+</div>
+
+<div id="about_us" class="about">
+<div class="wrapper1200">
+ <div class="about_title aniview" av-animation="bounceIn"> About Us </div>
+ <div class="about_body aniview" av-animation="fadeInUp">  The energy industry is a major area for investment.  Policy makers in Jordan and elsewhere are looking closely at this sector to be the driver of future prosperity. The basic economics of energy and current developments in solar power technology are making the area of “Solar Parks” increasingly attractive. 
+Ninth Circle Investment LLC is working to position itself to grow and lead this segment of the energy market.
+The solar park is a concentrated zone of development of solar power generation projects and provides developers an area that is well characterized, with proper infrastructure and access to amenities and where the risk of the projects can be minimized. Solar Park will also facilitate developers by reducing the number of required approvals. Such approach will also help in the policy framework and roadmap for solar power development in Jordan. It is the first-of-its-kind in the MENA region with contiguous developed land, transmission connectivity and provision of other amenities and infrastructure. A solar power developer can get fully developed land along with transmission and other facilities and can, therefore, set up a power project without unnecessary delays
+ </div>
+
+  <div class="about_left aniview" av-animation="slideInLeft"> 
+ <img src="images/about.jpg">
+  </div>
+    <div class="about_left aniview" av-animation="slideInRight"> 
+  <ul>
+ <li><span class="red">NCI’s</span> “Eagle Solar” project is designed to be financially profitable, technically feasible, compliant with local legislative requirements, attractive for investors, customers, the community at large, and the environment.</li>
+<li>The purpose of this project is to develop “Eagle Solar” as a combined real estate and alternative energy business project that facilitates and provides the required suitable platform for developers to deploy their solar power plant covering their own consumption of electricity. </li>
+<li><span class="red">NCI </span>is a Jordan based company was founded in June 2013   focusing on developing a major zone of land to   facilitate renewable energy services for customers and developers </li>
+<li><span class="red">NCI</span> is keen to be the pioneer and leader of solar farms and energy services and maintenance.</li>
+<li><span class="red">NCI</span> to implement Solar Park activities / services while maintaining financially profitable and sustainable operation, with low risk and safe investment opportunity.</li>
+ </ul>
+  </div>
+  
+  
+</div>
+
+  </div>
+  
+  <div class="mission" id="mission">
+  <div class="wrapper1200">
+   <div class="about_title aniview" av-animation="bounceIn">Our Mission </div><br>
+   <div class="aniview" av-animation="fadeInUp">
+  NCI’s mission is to develop “Eagle Solar Park” into a highly profitable and ecologically friendly venture.<br>
+The project is planned on 7,000,000 m2; 5,000,000 m2 in the beginning and the 2,000,000 m2 for future expansion. <br>
+The proposed solar park targets to develop a single hub to cover projects with capacity up to 200 MW of solar power generation with facilities, and services to lower costs and risk tom its customers and developers. 
+  </div>
+  </div>
+  </div>
+  
+    <div class="facilitites" id="facilities">
+  <div class="wrapper1200">
+   <div class="about_title aniview" av-animation="bounceIn">Facilities  </div><br>
+   <div class="aniview" av-animation="fadeInUp">
+“Eagle Solar” to offer and facilitate services such as land leasing, infrastructure, grid connectivity, solar power plant construction and other related solar EPC, maintenance and repair services.<br><br>
+NCI to facilitate, simplify and expedite the setup and supply of solar energy with the qualified business partners for all related product such as construction, installation, maintenance and repair services. 
+
+
+  </div>
+  </div>
+  </div>
+  
+    <div class="value" id="value"> <div class="about_title aniview" av-animation="bounceIn"> Our Value </div>
+  <div class="wrapper1200">
+     <div class="aniview" av-animation="fadeInUp">
+Significant savings for developers’ with accessible location, availability of developed plots, clustered infrastructure and primary amenities that ensures swift cost effective implementations. <br>
+Government: Cost effective Electricity generation and emission reduction. <br>
+Social/Economic: local employment generation, various social developments of roads, street light, training centers etc.<br>
+
+</div>
+<div class="boxes"> 
+<div class="box4"><div class="left_box4"><div class="box_title">Investors</div><div class="box_body">•	Strong risk adjusted returns. <br>
+•	Low risk investment. <br>
+•	Utilization of idle land.<br> 
+•	Low CAPEX. <br>
+•	Land value appreciation. <br>
+</div></div> <img src="images/b01.jpg"></div>
+<div class="box4"><div class="left_box4"><div class="box_title">Developers</div><div class="box_body">•	Proximity to the grid. <br>
+•	Lack of alternan class="red">NCI’s</span> “Eagle Solar” offers simple solutions for most of the major challenges were encountered by Solar Energy customers-developers.<br>
+<span class="red">NCI’s</span> “Eagle Solar” project is inviting and encouraging major customers to focus on their core business by creating a centralized, consolidated development zone to be the launching platform to prepare, facilitate and support customers to overcome the challenges in all anticipated related areas.
+Eagle Solar Park is designed to reduce cost, expedite the process and minimize the effort for all parties involved in similar projects.<br>
+
+
+
+  </div>
+  </div>
+
+  </div>
+  
+  <div class="team" id="team">  <div class="wrapper1200"><div class="team_title">Our Team</div>
+  <ul>
+<li>Ninth Circle Investments LLC is a Jordan based company established by a highly qualified and very specialized management with vast experience in the real estate that deployed and delivered three different industrial zones in Jordan.</li>
+<li>NCI team is comprised of certified and highly experienced solar energy technical resources</li>
+<li>NCI is guided by the highest values and professional ethics; apply highest standards to meet and exceed client’s needs and expectations. </li>
+<li>NCI offers and promote high standards working environment that provides sustainable approach.</li>
+
+  Board of Directors
+Asem Bin Nayef AL Hashem (Chairman of the Board of Directors)
+Issam AL Saqer (CEO/ Board Member/ Member of Executive Committee)
+Mahmoud Zewieni (Board Member/ Member of Executive Committee)
+Imad Qubain (Board Member/ Member of Executive Committee)
+
+   </ul><br><br>
+   <div class="team_title" style="font-size:25px;">  Board of Directors</div>
+   
+ 
+  <div class="team_member first"> <span>Issam AL Saqer </span><br> CEO/ Board Member/ Member of Executive Committee</div>
+  <div class="team_member"> <span>Mahmoud Zewieni </span><br> Board Member/ Member of Executive Committee</div>
+  <div class="team_member"> <span>Imad Qubain</span><br>  Board Member/ Member of Executive Committe)</div>
+
+
+
+
+   
+    </div>
+  </div>
+  
+  <div class="Portfolio" id="Portfolio">  <div class="wrapper1200"><div class="team_title">Portfolio</div>
+ <div class="Portfolio_center"> NCI’s team has a proud history of community entrepreneurship and services</div>
+  <div class="portfolio_box"><img src="images/logo.png"><div class="portfolio_data"><h1>Ninth Circle Investments (NCI)</h1><div class="portfolio_date">June 2014 <span>  Present </span> </div><div class="portfolio_body">Working to inaugurate Eagle Solar with initial capacity of 200 MW nearby the city of Amman. 
+The “Eagle Solar” project model to provide developers with pre-arranged and approved facilities and services, such approach will help in the policy framework and roadmap for solar power development in Jordan. 
+</div></div></div>
+  <div class="portfolio_box"><img src="images/logo2.jpg"><div class="portfolio_data"><h1>Eagle Estate </h1><div class="portfolio_date">July 2007 <span> Present</span></div><div class="portfolio_body">Eagle Estate is a premier real estate consulting and brokerage company in Jordan.  The company has a sales force of 18 professional consultants, and a leader in the local market.  It consult many multinational companies added to almost all embassies and NGOs operating in Jordan. </div></div></div>
+  <div class="portfolio_box"><img src="images/logo1.jpg"><div class="portfolio_data"><h1>Eagle Asset Management Fund </h1><div class="portfolio_date">2013<span> Present</span></div><div class="portfolio_body">In 2013 Eagle Estate launched the first Asset Management Fund in Jordan and completely owned by its director.  Today the fund has assets in excess of 20 million JD in residential and commercial properties throughout the city of Amman.  The occupancy rate is 97%.</div></div></div>
+
+  <div class="portfolio_box"><img src="images/logo4.jpg"><div class="portfolio_data"><h1>New Age Beverages (NABCO) </h1> <div class="portfolio_date">February 2002 <span> June 2006 </span></div><div class="portfolio_body">Launched   as major brewery in Jordan to produce nonalcoholic malt beverages. It was sold in 2006 to an international bottler to become the first F&B local brand to go international</div></div></div>
+    <div class="portfolio_box"><img src="images/logo7.jpg"><div class="portfolio_data"><h1> INDICO  </h1><div class="portfolio_date">August 1998 <span>  Present </span> </div><div class="portfolio_body">Have been instrumental in the development of three Qualified Industrial Zone (QIZ) in Jordan.  These zones included Dulaila Industrial Park and Al Tajmouat Industrial Park.
+INDICO has been involved in all details from the legislation stage up to managing the development of the Ready-Made-Garments industry in Jordan increasing its export to 1.8 billion USD to the USA market only.
+Indico is a nominated supplier to Walmart, Kmart, J. C. Penny. and many other international retailers.
+</div></div></div>
+
+   </div>
+  </div>
+  
+  
+  <div class="footer"> 
+    <div class="wrapper1200">
+      <div class="copy">
+	  		&copy; <?php echo date('Y')?> Developed by <a target="_blank" href="http://bluerayws.com">Blue Ray for Web Solutions</a>. All rights reserved
+	  
+	  </div>
+	
+    </div>
+  </div>
+  
+  
+</div>
+
+</body>
+</html>/div>
+
+  <div class="portfolio_box"><img src="images/logo4.jpg"><div class="portfolio_data"><h1>New Age Beverages (NABCO) </h1> <div class="portfolio_date">February 2002 <span> June 2006 </span></div><div class="portfolio_body">Launched   as major brewery in Jordan to produce nonalcoholic malt beverages. It was sold in 2006 to an international bottler to become the first F&B local brand to go international</div></div></div>
+    <div class="portfolio_box"><img src="images/logo7.jpg"><div class="portfolio_data"><h1> INDICO  </h1><div class="portfolio_date">August 1998 <span>  Present </span> </div><div class="portfolio_body">Have been instrumental in the development of three Qualified Industrial Zone (QIZ) in Jordan.  These zones included Dulaila Industrial Park and Al Tajmouat Industrial Park.
+INDICO has been involved in all details from the legislation stage up to managing the development of the Ready-Made-Garments industry in Jordan increasing its export to 1.8 billion USD to the USA market only.
+Indico is a nominated supplier to Walmart, Kmart, J. C. Penny. and many other international retailers.
+</div></div></div>
+
+   </div>
+  </div>
+  
+  
+  <div class="footer"> 
+    <div class="wrapper1200">
+      <div class="copy">
+	  		&copy; <?php echo date('Y')?> Developed by <a target="_blank" href="http://bluerayws.com">Blue Ray for Web Solutions</a>. All rights reserved
+	  
+	  </div>
+	
+    </div>
+  </div>
+  
+  
+</div>
+
+</body>
+</html>
